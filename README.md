@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**JuanTamayo-arch0/JuanTamayo-arch0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋  
 
-Here are some ideas to get you started:
+I'm a **Systems and Informatics Engineering** and **Electronic Engineering** student at **UPB** in Medellín, Colombia.  
+Passionate about **software development, embedded systems, and automation**, I enjoy working on projects that blend **hardware and software** to solve real-world problems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Skills  
+- **Programming Languages:** C, Java, Python, JavaScript  
+- **Embedded Systems:** ESP32, Arduino, Raspberry Pi  
+- **Web & Backend:** Spring Boot, Node.js, Firebase  
+- **Databases:** MySQL, PostgreSQL, Firebase Realtime Database  
+- **DevOps & Tools:** Docker, Git, Linux (Arch Linux user 🐧)  
+
+## 🚀 Current Projects  
+- **IoT & Smart Monitoring:** Developing real-time monitoring and control systems for homes  
+- **Compilers & Programming Languages:** Working on mathematical function analysis and expression evaluation in Java  
+- **Mobile Productivity App:** Building a cross-platform app for personal and collaborative productivity  
+
+## 📫 Connect with Me  
+- 💬 Always open to discussing tech, projects, and new ideas!  
+- 🔗 [LinkedIn](#) | [GitHub](https://github.com/yourusername)  
+
+---
+
+_"Code, build, break, fix, repeat."_ 🔥  
