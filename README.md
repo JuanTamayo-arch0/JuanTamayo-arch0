@@ -9,7 +9,7 @@ Passionate about **software development, embedded systems, and automation**, I e
 - **Embedded Systems:** ESP32, Arduino, Raspberry Pi  
 - **Web & Backend:** Spring Boot, Node.js, Firebase  
 - **Databases:** MySQL, PostgreSQL, Firebase Realtime Database  
-- **DevOps & Tools:** Docker, Git, Linux (Arch Linux user 🐧)  
+- **DevOps & Tools:** Docker, Git, Linux  
 
 ## 🚀 Current Projects  
 - **IoT & Smart Monitoring:** Developing real-time monitoring and control systems for homes  
