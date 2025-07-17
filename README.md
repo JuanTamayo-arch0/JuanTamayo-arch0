@@ -18,7 +18,7 @@ Passionate about **software development, embedded systems, and automation**, I e
 
 ## 📫 Connect with Me  
 - 💬 Always open to discussing tech, projects, and new ideas!  
-- 🔗 [LinkedIn](#) | [GitHub](https://github.com/yourusername)  
+- 🔗 [GitHub](https://github.com/JuanTamayo-arch0)  
 
 ---
 
