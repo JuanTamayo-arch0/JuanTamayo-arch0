@@ -2,24 +2,22 @@
 # Hi there! 👋  
 
 I'm a **Systems and Informatics Engineering** and **Electronic Engineering** student at **UPB** in Medellín, Colombia.  
-Passionate about **software development, embedded systems, and automation**, I enjoy working on projects that blend **hardware and software** to solve real-world problems.  
+Passionate about **software development, embedded systems, and automation**, I enjoy working on projects that blend **hardware and software** to solve real-world problems.
 
 ---
+
 ## 🚀 GitHub Overview
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; flex-wrap: nowrap;">
-
-  <!-- 📊 General Stats -->
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JuanTamayo-arch0&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" 
-       alt="GitHub Stats" width="49%" />
-
-  <!-- 💻 Top Languages -->
+       alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanTamayo-arch0&layout=compact&theme=tokyonight&langs_count=8" 
-       alt="Top Languages" width="49%" />
-
-</div>
+       alt="Top Languages" height="170" />
+</p>
 
 ---
+
+
 
 ## 🔧 Technologies & Skills  
 - **Programming Languages:** C, Java, Python, JavaScript  
